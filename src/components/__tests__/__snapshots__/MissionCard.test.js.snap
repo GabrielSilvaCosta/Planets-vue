@@ -1,0 +1,10 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`MissionCard > should render correctly 1`] = `
+"<div data-v-32be5780="" class="mission-card" mission="[object Object]">
+  <p data-v-32be5780="" class="mission-year"></p>
+  <p data-v-32be5780="" class="mission-name"></p>
+  <p data-v-32be5780="" class="mission-country"></p>
+  <p data-v-32be5780="" class="mission-destination"></p>
+</div>"
+`;

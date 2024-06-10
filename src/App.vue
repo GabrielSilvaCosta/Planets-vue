@@ -2,7 +2,6 @@
   <div id="app">
     <Header />
     <SolarSystem />
-    <!-- <Missions /> -->
   </div>
 </template>
 
@@ -15,7 +14,6 @@ export default {
   components: {
     Header,
     SolarSystem,
-    // Missions,
   }
 };
 </script>

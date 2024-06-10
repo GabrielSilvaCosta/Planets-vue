@@ -1,0 +1,42 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SolarSystem > should render correctly 1`] = `
+"<div planets="">
+  <div data-testid="solar-system"></div>
+  <div data-v-6db1a9b7="" class="title">
+    <h1 data-v-6db1a9b7="">Planetas</h1>
+  </div>
+  <div data-v-1ed930a5="" class="planet-card">
+    <h3 data-v-1ed930a5="">Mercurio</h3>
+    <div data-v-1ed930a5="" class="image-container"><img data-v-1ed930a5="" src="/src/images/Mercurio.png" alt="Mercurio" class="planet-image"></div>
+  </div>
+  <div data-v-1ed930a5="" class="planet-card">
+    <h3 data-v-1ed930a5="">Venus</h3>
+    <div data-v-1ed930a5="" class="image-container"><img data-v-1ed930a5="" src="/src/images/Venus.png" alt="Venus" class="planet-image"></div>
+  </div>
+  <div data-v-1ed930a5="" class="planet-card">
+    <h3 data-v-1ed930a5="">Terra</h3>
+    <div data-v-1ed930a5="" class="image-container"><img data-v-1ed930a5="" src="/src/images/Terra.png" alt="Terra" class="planet-image"></div>
+  </div>
+  <div data-v-1ed930a5="" class="planet-card">
+    <h3 data-v-1ed930a5="">Marte</h3>
+    <div data-v-1ed930a5="" class="image-container"><img data-v-1ed930a5="" src="/src/images/Marte.png" alt="Marte" class="planet-image"></div>
+  </div>
+  <div data-v-1ed930a5="" class="planet-card">
+    <h3 data-v-1ed930a5="">Jupiter</h3>
+    <div data-v-1ed930a5="" class="image-container"><img data-v-1ed930a5="" src="/src/images/Jupiter.png" alt="Jupiter" class="planet-image"></div>
+  </div>
+  <div data-v-1ed930a5="" class="planet-card">
+    <h3 data-v-1ed930a5="">Saturno</h3>
+    <div data-v-1ed930a5="" class="image-container"><img data-v-1ed930a5="" src="/src/images/Saturno.png" alt="Saturno" class="planet-image"></div>
+  </div>
+  <div data-v-1ed930a5="" class="planet-card">
+    <h3 data-v-1ed930a5="">Urano</h3>
+    <div data-v-1ed930a5="" class="image-container"><img data-v-1ed930a5="" src="/src/images/Urano.png" alt="Urano" class="planet-image"></div>
+  </div>
+  <div data-v-1ed930a5="" class="planet-card">
+    <h3 data-v-1ed930a5="">Netuno</h3>
+    <div data-v-1ed930a5="" class="image-container"><img data-v-1ed930a5="" src="/src/images/Netuno.png" alt="Netuno" class="planet-image"></div>
+  </div>
+</div>"
+`;

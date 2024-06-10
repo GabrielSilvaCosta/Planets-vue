@@ -1,0 +1,9 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Missions > should render correctly 1`] = `
+"<div class="missions" missions="">
+  <div data-v-6db1a9b7="" class="title">
+    <h1 data-v-6db1a9b7="">Missoes</h1>
+  </div>
+</div>"
+`;

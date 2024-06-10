@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Header > should render correctly 1`] = `
+"<div class="header" title="Teste Header">
+  <h1>Solar System</h1>
+</div>"
+`;

@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Title > should render correctly 1`] = `
+"<div data-v-6db1a9b7="" class="title" title="Teste">
+  <h1 data-v-6db1a9b7=""></h1>
+</div>"
+`;
