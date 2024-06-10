@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "vitest"
+    "test": "vitest",
+    "test:coverage": "vitest run --coverage"
   },
   "dependencies": {
     "vue": "^3.4.21"
@@ -15,7 +16,9 @@
   "devDependencies": {
     "@testing-library/vue": "^8.1.0",
     "@vitejs/plugin-vue": "^5.0.4",
+    "@vitest/coverage-v8": "^1.6.0",
     "@vue/test-utils": "^2.4.5",
+    "c8": "^10.0.0",
     "happy-dom": "^14.12.0",
     "jsdom": "^24.0.0",
     "vite": "^5.2.8",
