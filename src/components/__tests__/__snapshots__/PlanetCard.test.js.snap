@@ -1,0 +1,8 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`PlanetCard > should render correctly 1`] = `
+"<div data-v-1ed930a5="" class="planet-card" planet="[object Object]">
+  <h3 data-v-1ed930a5=""></h3>
+  <div data-v-1ed930a5="" class="image-container"><img data-v-1ed930a5="" class="planet-image"></div>
+</div>"
+`;
